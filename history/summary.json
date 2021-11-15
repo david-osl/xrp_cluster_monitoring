@@ -4,19 +4,19 @@
     "url": "https://s1.ripple.com",
     "icon": "https://favicons.githubusercontent.com/s1.ripple.com",
     "slug": "xrp-s1",
-    "status": "down",
-    "uptime": "20.30%",
-    "uptimeDay": "20.30%",
-    "uptimeWeek": "20.30%",
-    "uptimeMonth": "20.30%",
-    "uptimeYear": "20.30%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "status": "up",
+    "uptime": "2.40%",
+    "uptimeDay": "2.40%",
+    "uptimeWeek": "2.40%",
+    "uptimeMonth": "2.40%",
+    "uptimeYear": "2.40%",
+    "time": 319,
+    "timeDay": 319,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-11-15": 0
+      "2021-11-15": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 287,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 250,
+    "timeDay": 250,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "time": 202,
+    "timeDay": 202,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   }
 ]
