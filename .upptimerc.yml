@@ -8,19 +8,19 @@ sites:
     method: POST
     headers:
       - "Content-Type: application/json"
-    body: '{"method":"ledger","params":[{"ledger_index":"validated"}]'
+    body: '{"method":"ledger","params":[{"ledger_index":"validated"}]}'
   - name: XRP S2
     url: https://s2.ripple.com
     method: POST
     headers:
       - "Content-Type: application/json"
-    body: '{"method":"ledger","params":[{"ledger_index":"validated"}]'
+    body: '{"method":"ledger","params":[{"ledger_index":"validated"}]}'
   - name: XRPL Cluster
     url: https://xrplcluster.com
     method: POST
     headers:
       - "Content-Type: application/json"
-    body: '{"method":"ledger","params":[{"ledger_index":"validated"}]'
+    body: '{"method":"ledger","params":[{"ledger_index":"validated"}]}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
