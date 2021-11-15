@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/s1.ripple.com",
     "slug": "xrp-s1",
     "status": "up",
-    "uptime": "2.40%",
-    "uptimeDay": "2.40%",
-    "uptimeWeek": "2.40%",
-    "uptimeMonth": "2.40%",
-    "uptimeYear": "2.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 319,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
-    "dailyMinutesDown": {
-      "2021-11-15": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XRP S2",
