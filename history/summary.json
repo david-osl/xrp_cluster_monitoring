@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 297,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "time": 277,
+    "timeDay": 255,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/s2.ripple.com",
     "slug": "xrp-s2",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 234,
-    "timeDay": 221,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2021-11-17": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 240,
+    "timeDay": 281,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
+    "dailyMinutesDown": {}
   },
   {
     "name": "XRPL Cluster",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 469,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "time": 368,
+    "timeDay": 520,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   }
 ]
