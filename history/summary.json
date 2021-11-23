@@ -4,19 +4,19 @@
     "url": "https://s1.ripple.com:51234",
     "icon": "https://favicons.githubusercontent.com/s1.ripple.com",
     "slug": "xrp-s1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 212,
-    "timeWeek": 240,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 252,
+    "timeDay": 208,
+    "timeWeek": 235,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2021-11-23": 0
+      "2021-11-23": 23
     }
   },
   {
