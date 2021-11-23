@@ -4,7 +4,7 @@
     "url": "https://s1.ripple.com:51234",
     "icon": "https://favicons.githubusercontent.com/s1.ripple.com",
     "slug": "xrp-s1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 240,
     "timeMonth": 256,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-23": 0
+    }
   },
   {
     "name": "XRP S2",
