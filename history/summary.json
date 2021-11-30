@@ -4,18 +4,19 @@
     "url": "https://s1.ripple.com:51234",
     "icon": "https://favicons.githubusercontent.com/s1.ripple.com",
     "slug": "xrp-s1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 257,
     "timeDay": 197,
-    "timeWeek": 259,
+    "timeWeek": 267,
     "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2021-11-30": 1,
       "2021-11-23": 23
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://s2.ripple.com:51234",
     "icon": "https://favicons.githubusercontent.com/s2.ripple.com",
     "slug": "xrp-s2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-30": 0
+    }
   },
   {
     "name": "XRPL Cluster",
