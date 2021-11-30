@@ -1,7 +1,7 @@
 url: https://s2.ripple.com:51234
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-11-30T16:27:27.064Z
+status: up
+code: 200
+responseTime: 280
+lastUpdated: 2021-11-30T17:02:18.161Z
 startTime: Mon Nov 15 2021 11:31:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
