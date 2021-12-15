@@ -4,18 +4,19 @@
     "url": "https://s1.ripple.com:51234",
     "icon": "https://favicons.githubusercontent.com/s1.ripple.com",
     "slug": "xrp-s1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 496,
     "timeDay": 404,
     "timeWeek": 325,
-    "timeMonth": 496,
+    "timeMonth": 524,
     "timeYear": 496,
     "dailyMinutesDown": {
+      "2021-12-15": 1,
       "2021-11-30": 35,
       "2021-11-23": 23
     }
@@ -25,7 +26,7 @@
     "url": "https://s2.ripple.com:51234",
     "icon": "https://favicons.githubusercontent.com/s2.ripple.com",
     "slug": "xrp-s2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2021-12-15": 0,
       "2021-11-30": 35
     }
   },
@@ -54,7 +56,7 @@
     "time": 369,
     "timeDay": 237,
     "timeWeek": 337,
-    "timeMonth": 369,
+    "timeMonth": 383,
     "timeYear": 369,
     "dailyMinutesDown": {}
   }
