@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/s1.ripple.com.ico",
     "slug": "xrp-s1",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 585,
-    "timeDay": 1029,
-    "timeWeek": 1624,
-    "timeMonth": 828,
-    "timeYear": 600,
+    "time": 586,
+    "timeDay": 807,
+    "timeWeek": 1635,
+    "timeMonth": 833,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2022-04-29": 21,
       "2022-04-14": 25,
@@ -29,8 +29,7 @@
       "2022-02-05": 36,
       "2022-02-04": 20,
       "2021-12-21": 21,
-      "2021-12-15": 30,
-      "2021-11-30": 35
+      "2021-12-15": 30
     }
   },
   {
@@ -45,10 +44,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 532,
-    "timeDay": 991,
-    "timeWeek": 755,
-    "timeMonth": 660,
-    "timeYear": 545,
+    "timeDay": 806,
+    "timeWeek": 764,
+    "timeMonth": 665,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2022-06-16": 81,
       "2022-04-29": 21,
@@ -63,8 +62,7 @@
       "2022-02-06": 19,
       "2022-02-05": 34,
       "2022-02-04": 31,
-      "2021-12-15": 30,
-      "2021-11-30": 35
+      "2021-12-15": 30
     }
   },
   {
@@ -79,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 331,
-    "timeDay": 320,
-    "timeWeek": 291,
-    "timeMonth": 320,
-    "timeYear": 329,
+    "timeDay": 401,
+    "timeWeek": 275,
+    "timeMonth": 325,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2022-07-02": 24,
       "2022-07-01": 54,
