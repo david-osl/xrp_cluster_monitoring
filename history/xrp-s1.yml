@@ -1,7 +1,7 @@
 url: https://s1.ripple.com:51234
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-12T21:41:07.876Z
+status: up
+code: 200
+responseTime: 404
+lastUpdated: 2023-12-12T21:52:32.765Z
 startTime: 2021-11-15T11:31:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
